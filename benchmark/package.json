@@ -15,7 +15,9 @@
     "rsvp": "^3.0.16",
     "text-table": "~0.2.0",
     "vow": "~0.4.1",
-    "when": "^3.6.4"
+    "welsh": "^3.3.1",
+    "when": "^3.6.4",
+    "zousan": "^1.2.1"
   },
   "devDependencies": {},
   "scripts": {
